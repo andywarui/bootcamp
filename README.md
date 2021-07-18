@@ -31,7 +31,7 @@ A:  type `ls`
 
 Q: Make the directory **bootcamp** on your Desktop and, within it, the directory **labs** (i.e., ~/Desktop/bootcamp/labs). 
 
-A:  type `mkdir /Desktop/bootcamp `  then  `mkdir /Desktop/bootcamp/labs `
+A:  type `mkdir /Desktop/bootcamp`   then   `mkdir /Desktop/bootcamp/labs`
 
 ----
 
@@ -39,4 +39,23 @@ A:  type `mkdir /Desktop/bootcamp `  then  `mkdir /Desktop/bootcamp/labs `
 
 Q: Change to your Desktop, then change to bootcamp directory, and then the lab directory.
 
-A: type `cd Desktop `  then  `cd bootcamp `   type `cd labs ` 
+A: type `cd Desktop`   then type   `cd bootcamp`   then  type `cd labs` 
+
+---
+
+## 6: Creating files
+
+Q: Create an empty file called file01 in the lab directory. 
+
+A: type `touch Desktop/bootcamp/labs/file01`
+
+---
+
+## 7: Deleting directories
+
+Q: What is the command used to remove a directory named **food** and everything inside it. 
+
+A: type `rm -r food`
+
+
+
