@@ -27,8 +27,17 @@ A:  type `ls`
 
 -----
 
-## 3: Listing
+## 4: Making directories
 
-Q: What’s the command to list all the files (and directories) on your Desktop directory? 
+Q: Make the directory **bootcamp** on your Desktop and, within it, the directory **labs** (i.e., ~/Desktop/bootcamp/labs). 
 
-A:  type `ls`
+A:  type `mkdir /Desktop/bootcamp ` then `mkdir /Desktop/bootcamp/labs `
+
+----
+
+## 5: Navigating directories
+
+Q: Change to your Desktop, then change to bootcamp directory, and then the lab directory.
+
+A: type `cd Desktop' then type  'cd bootcamp' ,  then type `cd labs' 
+
