@@ -31,7 +31,7 @@ A:  type `ls`
 
 Q: Make the directory **bootcamp** on your Desktop and, within it, the directory **labs** (i.e., ~/Desktop/bootcamp/labs). 
 
-A:  type `mkdir /Desktop/bootcamp ` then `mkdir /Desktop/bootcamp/labs `
+A:  type `mkdir /Desktop/bootcamp `  then  `mkdir /Desktop/bootcamp/labs `
 
 ----
 
@@ -39,5 +39,4 @@ A:  type `mkdir /Desktop/bootcamp ` then `mkdir /Desktop/bootcamp/labs `
 
 Q: Change to your Desktop, then change to bootcamp directory, and then the lab directory.
 
-A: type `cd Desktop' then type  'cd bootcamp' ,  then type `cd labs' 
-
+A: type `cd Desktop `  then  `cd bootcamp `   type `cd labs ` 
